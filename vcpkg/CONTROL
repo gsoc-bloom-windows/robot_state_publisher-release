@@ -1,4 +1,0 @@
-Source: ros-dashing-robot-state-publisher
-Version: 2.2.3
-Description: ROS2 version of the robot_state_publisher package
-Build-Depends:
